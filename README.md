@@ -1,11 +1,11 @@
-This program uses Apache HttpComponents HttpClientv4.2.3 for all HTTP requests.
-We are using Jsoup which is a light weight Java HTML Parser to dynamically parse HTML id and values from Way2sms page
+# way2sms
+This is an unofficial way2sms sms sending api in Java
 
+## Dependencies
+1. Apache HttpComponents HttpClientv4.2.3: For HTTP requests
+2. Jsoup: A light weight Java HTML Parser
 
-Steps to run this project-
-1- Download HttpClient from Apache web site i.e. http://hc.apache.org/downloads.cgi
-2- Download JSoup from http://jsoup.org/download
-3- Add both the jar files in classpath before running this project
-
-
-Note- Do email me at ravi.joshi53@yahoo.com in case of any error
+## Setup
+1. Download HttpClient from Apache web site i.e. http://hc.apache.org/downloads.cgi
+2. Download JSoup from http://jsoup.org/download
+3. Add both the jar files in classpath before running this project
